@@ -2,6 +2,7 @@
 
 @section('content')
     <div class="container">
+        <h2>バイクの紹介記事です♪</h2>
         <hr color="#c0c0c0">
         @if (!is_null($headline))
             <div class="row">
