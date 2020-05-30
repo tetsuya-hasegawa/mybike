@@ -27,8 +27,8 @@ class ProfileController extends Controller
 
         // フォームから画像が送信されてきたら、保存して、$profile->image_path に画像のパスを保存する
         if (isset($form['image'])) {
-           $path = Storage::disk('s3')->putFile('/',$form['image'],'public');
-           $news->image_path = Storage::disk('s3')->url($path);
+           $path = Storage::disk('s3')->putFile('/',$profile_form['image'],'public');
+           $profile->image_path = Storage::disk('s3')->url($path);
         } else {
            $profile->image_path = null;
         }
@@ -74,8 +74,8 @@ class ProfileController extends Controller
       if ($request->remove == 'true') {
            $profile_form['image_path'] = null;
        } elseif ($request->file('image')) {
-           $path = Storage::disk('s3')->putFile('/',$form['image'],'public');
-           $news->image_path = Storage::disk('s3')->url($path);
+           $path = Storage::disk('s3')->putFile('/',$profile_form['image'],'public');
+           $profile->image_path = Storage::disk('s3')->url($path);
        } else {
            $profile_form['image_path'] = $profile->image_path;
        }
