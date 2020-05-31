@@ -74,7 +74,7 @@ class ProfileController extends Controller
       if ($request->remove == 'true') {
            $profile_form['image_path'] = null;
        } elseif ($request->file('image')) {
-           $path = Storage::disk('s3')->putFile('/',$form['image'],'public');
+           $path = Storage::disk('s3')->putFile('/',$profile_form['image'],'public');
            $profile->image_path = Storage::disk('s3')->url($path);
        } else {
            $profile_form['image_path'] = $profile->image_path;
