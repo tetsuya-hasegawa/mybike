@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 
 use App\Contact;
+use Storage; //追加
 
 class ContactController extends Controller
 {
