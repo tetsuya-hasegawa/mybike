@@ -2,7 +2,7 @@
 
 @section('content')
     <div class="container">
-        <h2>バイクの紹介記事です♪</h2>
+        <h2>バイクの紹介記事です</h2>
         <hr color="#c0c0c0">
         @if (!is_null($headline))
             <div class="row">
@@ -54,6 +54,14 @@
                     <hr color="#c0c0c0">
                 @endforeach
             </div>
+        </div>
+    
+        <!--<div class="col-md-4">-->
+               <!--<a href="{{ action('Admin\ProfileController@add') }}" role="button" class="btn btn-primary">お問い合わせ</a>-->
+        <!--</div>-->
+        
+        <div class="col-md-4">
+                <a href="{{ action('ContactController@add') }}" role="button" class="btn btn-primary">お問い合わせ</a>
         </div>
     </div>
     </div>

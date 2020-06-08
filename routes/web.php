@@ -27,10 +27,15 @@ Route::group(['prefix' => 'admin','middleware' => 'auth'], function() {
     Route::get('profile/edit', 'Admin\ProfileController@edit');
     Route::post('profile/edit', 'Admin\ProfileController@update');# Laravel 13の課題6で追記
     Route::get('profile/delete', 'Admin\ProfileController@delete');
-    
+    Route::get('contact', 'Admin\ContactController@index');
+    Route::get('contact/delete', 'Admin\ContactController@delete');
+    Route::get('contact/edit', 'Admin\ContactController@edit');
+    Route::post('contact/edit', 'Admin\ContactController@update');
 });
 Route::get('/', 'ProfileController@index');
 Route::get('profile', 'ProfileController@index');
+Route::get('contact/contact', 'ContactController@add');
+Route::post('contact/contact', 'ContactController@create');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
