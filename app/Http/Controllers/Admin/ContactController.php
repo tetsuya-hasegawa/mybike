@@ -37,15 +37,6 @@ class ContactController extends Controller
     
    public function update(Request $request)
    {
-      $this->validate($request, Contact::$rules);
-      $contact = Contact::find($request->id);
-      $contact_form = $request->all();
-      
-
-       unset($contact_form['_token']);
-       $contact->fill($contact_form)->save();
-
-       
        return redirect('admin/contact/');
      //return redirect('admin/contact/edit?id=1');
   }

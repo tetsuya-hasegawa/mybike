@@ -28,7 +28,7 @@
                     <table class="table table-dark">
                         <thead>
                             <tr>
-                                <th width="10%">ID</th>
+                                <th width="5%">ID</th>
                                 <th width="10%">名前</th>
                                 <th width="20%">メール</th>
                                 <th width="20%">タイトル</th>
@@ -40,9 +40,9 @@
                             @foreach($posts as $contact)
                                 <tr>
                                     <th>{{ $contact->id }}</th>
-                                    <td>{{ \Str::limit($contact->name, 100) }}</td>
+                                    <td>{{ \Str::limit($contact->name, 10) }}</td>
                                     <td>{{ \Str::limit($contact->mail, 20) }}</td>
-                                    <td>{{ \Str::limit($contact->title, 100) }}</td>
+                                    <td>{{ \Str::limit($contact->title, 50) }}</td>
                                     <td>{{ \Str::limit($contact->body, 250) }}</td>
                                     <td>
                                         <div>
