@@ -31,6 +31,7 @@
                             <textarea class="form-control" name="body" rows="20">{{ $contact_form->body }}</textarea>
                         </div>
                     </div>
+                     {{ csrf_field() }}
                     <div class="col-md-4">
                     <a href="{{ action('Admin\ContactController@index') }}" role="button" class="btn btn-primary">戻る</a>
                     </div>   

@@ -35,8 +35,8 @@ Route::group(['prefix' => 'admin','middleware' => 'auth'], function() {
 Route::get('/', 'ProfileController@index');
 Route::get('profile', 'ProfileController@index');
 Route::get('contact/contact', 'ContactController@add');
-Route::post('contact/contact', 'ContactController@confirm');
-Route::post('contact/confirm', 'ContactController@create');
+Route::post('contact/contact', 'ContactController@create');
+Route::post('contact/confirm', 'ContactController@confirm');
 Route::get('contact/thanks', 'ContactController@thanks');
 Auth::routes();
 
