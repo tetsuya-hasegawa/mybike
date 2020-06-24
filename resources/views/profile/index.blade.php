@@ -5,6 +5,7 @@
         <h2>バイクの紹介記事です</h2>
         <hr color="#c0c0c0">
         @if (!is_null($headline))
+         <a href="{{ action('ProfileController@single', ['id' => $headline->id]) }}">
             <div class="row">
                 <div class="headline col-md-10 mx-auto">
                     <div class="row">
@@ -26,12 +27,14 @@
                     </div>
                 </div>
             </div>
+            </a>
         @endif
         <hr color="#c0c0c0">
         <div class="row">
             <div class="posts col-md-8 mx-auto mt-3">
                 @foreach($posts as $post)
                     <div class="post">
+                       <a href="{{ action('ProfileController@single', ['id' => $post->id]) }}">
                         <div class="row">
                             <div class="text col-md-6">
                                 <div class="date">
@@ -50,6 +53,7 @@
                                 @endif
                             </div>
                         </div>
+                        </a>
                     </div>
                     <hr color="#c0c0c0">
                 @endforeach

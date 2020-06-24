@@ -17,7 +17,7 @@
                     </div>
                     {{ csrf_field() }}
                     <div class="col-md-4">
-                     <a href="{{ action('ProfileController@index') }}" role="button" class="btn btn-primary">トップページへ戻る</a></a>
+                     <a href="{{ action('ProfileController@index') }}" role="button" class="btn btn-primary">トップページへ戻る</a>
                    </div>
             </div>
         </div>

@@ -24,4 +24,11 @@ class ProfileController extends Controller
         // また View テンプレートに headline、 posts、という変数を渡している
         return view('profile.index', ['headline' => $headline, 'posts' => $posts]);
     }
+    
+    public function single(Request $request)
+    {
+         // Profile Modelからデータを取得する
+        $profile = Profile::find($request->id);
+        return view('profile.single',['profile_form' => $profile]);
+    }
 }

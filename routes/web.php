@@ -38,6 +38,7 @@ Route::get('contact/contact', 'ContactController@add');
 Route::post('contact/contact', 'ContactController@create');
 Route::post('contact/confirm', 'ContactController@confirm');
 Route::get('contact/thanks', 'ContactController@thanks');
+Route::get('profile/single', 'ProfileController@single');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
