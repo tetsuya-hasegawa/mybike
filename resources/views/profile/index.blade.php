@@ -5,20 +5,21 @@
         <h2>バイクの紹介記事です</h2>
         <hr color="#c0c0c0">
         @if (!is_null($headline))
-         <a href="{{ action('ProfileController@single', ['id' => $headline->id]) }}">
             <div class="row">
                 <div class="headline col-md-10 mx-auto">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="caption mx-auto">
-                                <div class="image">
-                                    @if ($headline->image_path)
-                                        <img src="{{ $headline->image_path }}">
-                                    @endif
-                                </div>
-                                <div class="title p-2">
-                                    <h1>{{ str_limit($headline->title, 70) }}</h1>
-                                </div>
+                               <a href="{{ action('ProfileController@single', ['id' => $headline->id]) }}">
+                                 <div class="image">
+                                     @if ($headline->image_path)
+                                         <img src="{{ $headline->image_path }}">
+                                     @endif
+                                 </div>
+                                 <div class="title p-2">
+                                     <h1>{{ str_limit($headline->title, 70) }}</h1>
+                                 </div>
+                               </a>
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -27,22 +28,22 @@
                     </div>
                 </div>
             </div>
-            </a>
         @endif
         <hr color="#c0c0c0">
         <div class="row">
             <div class="posts col-md-8 mx-auto mt-3">
                 @foreach($posts as $post)
                     <div class="post">
-                       <a href="{{ action('ProfileController@single', ['id' => $post->id]) }}">
                         <div class="row">
                             <div class="text col-md-6">
                                 <div class="date">
                                     {{ $post->updated_at->format('Y年m月d日') }}
                                 </div>
+                                <a href="{{ action('ProfileController@single', ['id' => $post->id]) }}">
                                 <div class="title">
                                     {{ str_limit($post->title, 150) }}
                                 </div>
+                                </a>
                                 <div class="body mt-3">
                                     {{ str_limit($post->body, 1500) }}
                                 </div>
@@ -53,7 +54,6 @@
                                 @endif
                             </div>
                         </div>
-                        </a>
                     </div>
                     <hr color="#c0c0c0">
                 @endforeach

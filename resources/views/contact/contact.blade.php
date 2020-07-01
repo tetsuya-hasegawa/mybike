@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-8 mx-auto">
                 <h2>本文</h2>
-                <form action="{{ action('ContactController@create') }}" method="post" enctype="multipart/form-data">
+                <form action="{{ action('ContactController@input') }}" method="post" enctype="multipart/form-data">
                     
                     @if (count($errors) > 0)
                         <ul>
@@ -18,25 +18,25 @@
                     <div class="form-group row">
                         <label class="col-md-2">お名前</label>
                         <div class="col-md-10">
-                            <input type="text" class="form-control" name="name" value="{{ old('name') }}">
+                            <input type="text" class="form-control" name="name" value="{{ old('name', $form['name']) }}">
                         </div>
                     </div>
                     <div class="form-group row">
                         <label class="col-md-2">メールアドレス</label>
                         <div class="col-md-10">
-                            <input type="text" class="form-control" name="mail" value="{{ old('mail') }}">
+                            <input type="text" class="form-control" name="mail" value="{{ old('mail', $form['mail']) }}">
                         </div>
                     </div>
                     <div class="form-group row">
                         <label class="col-md-2">題名</label>
                         <div class="col-md-10">
-                            <input type="text" class="form-control" name="title" value="{{ old('title') }}">
+                            <input type="text" class="form-control" name="title" value="{{ old('title', $form['title']) }}">
                         </div>
                     </div>
                     <div class="form-group row">
                         <label class="col-md-2">メッセージ本文</label>
                         <div class="col-md-10">
-                            <textarea class="form-control" name="body" rows="20">{{ old('body') }}</textarea>
+                            <textarea class="form-control" name="body" rows="20">{{ old('body', $form['body']) }}</textarea>
                         </div>
                     </div>
                     {{ csrf_field() }}
