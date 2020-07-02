@@ -28,21 +28,21 @@ class ContactController extends Controller
         ); 
              
              
-        //dd($form);
+        //dd($form);デバックのコード
         
         
-        if (isset($form['name'])) {
+       
          $form['name'] = $request->session()->get('name');
-        }
-        if (isset($form['mail'])) {
+        
+       
          $form['mail'] = $request->session()->get('mail');
-        }
-        if (isset($form['title'])) {
+        
+   
           $form['title'] = $request->session()->get('title');
-        }
-         if (isset($form['body'])) {
+        
+       
           $form['body'] = $request->session()->get('body');
-        }
+        
          
         //$form = $request->session()->all();
 
