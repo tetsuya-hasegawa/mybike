@@ -8,7 +8,9 @@
                 <h2>バイク記事</h2>
                 <br>
                 <h3>タイトル</h3>   
-                <div>{{ $profile_form->title }}</div>
+                <div class="title">
+                    {{ $profile_form->title }}
+                </div>
                 <div>{{ $profile_form->body }}</div>
                       
                     <br>  
