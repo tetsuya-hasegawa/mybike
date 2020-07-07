@@ -41,12 +41,19 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <!-- Left Side Of Navbar -->
                         <ul class="navbar-nav mr-auto">
-
+                            
+                            <!-- ここにナビボタンを追記 -->
+                          <a href="{{ action('NavbarController@add') }}" role="button" class="btn btn-primary">プロフィール</a>
+                          <br><br>
+                          <a href="{{ action('NavbarController@add2') }}" role="button" class="btn btn-primary">ポートフォリオの紹介</a></a>
+                          <br><br>
+                          <a href="{{ action('NavbarController@add3') }}" role="button" class="btn btn-primary">このブログについて</a>
+                          
                         </ul>
 
                          <!-- Right Side Of Navbar -->
                         <ul class="navbar-nav ml-auto">
-
+                          
                         {{-- 以下を追記 --}}
                         <!-- Authentication Links -->
                         {{-- ログインしていなかったらログイン画面へのリンクを表示 --}}

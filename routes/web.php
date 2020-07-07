@@ -32,6 +32,13 @@ Route::group(['prefix' => 'admin','middleware' => 'auth'], function() {
     Route::get('contact/edit', 'Admin\ContactController@edit');
     Route::post('contact/edit', 'Admin\ContactController@update');
 });
+
+Route::group(['prefix' => 'layouts'], function() {
+    Route::get('navbar/myprofile', 'NavbarController@add');
+    Route::get('navbar/myportfolio', 'NavbarController@add2');
+    Route::get('navbar/myblog', 'NavbarController@add3');
+});
+    
 Route::get('/', 'ProfileController@index');
 Route::get('profile', 'ProfileController@index');
 Route::get('contact/contact', 'ContactController@add');

@@ -27,7 +27,10 @@ class ProfileController extends Controller
     
     public function single(Request $request)
     {
-         // Profile Modelからデータを取得する
+      // Profile Modelからデータを取得する
+      //これは実験コードです
+      //$id = 1;
+      //$profile = Profile::find($id);
         $profile = Profile::find($request->id);
         return view('profile.single',['profile_form' => $profile]);
     }

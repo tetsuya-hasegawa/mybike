@@ -26,25 +26,15 @@ class ContactController extends Controller
           'title' =>'',
           'body' =>''
         ); 
-             
-             
-        //dd($form);デバックのコード
+    
+           //dd($form);デバックのコード
         
-        
-       
-         $form['name'] = $request->session()->get('name');
-        
-       
-         $form['mail'] = $request->session()->get('mail');
-        
-   
+          $form['name'] = $request->session()->get('name');
+          $form['mail'] = $request->session()->get('mail');
           $form['title'] = $request->session()->get('title');
-        
-       
           $form['body'] = $request->session()->get('body');
         
-         
-        //$form = $request->session()->all();
+          //$form = $request->session()->all();
 
         return view('contact.contact', ['form' => $form]);
     }
