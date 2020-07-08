@@ -11,15 +11,15 @@ use App\Http\Controllers\Controller;
 
 class NavbarController extends Controller
 {
-    public function add()
+    public function myprofile()
     {
         return view('layouts.navbar.myprofile');
     }
-     public function add2()
+     public function myportfolio()
     {
         return view('layouts.navbar.myportfolio');
     }
-    public function add3()
+    public function myblog()
     {
         return view('layouts.navbar.myblog');
     }

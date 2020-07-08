@@ -34,9 +34,9 @@ Route::group(['prefix' => 'admin','middleware' => 'auth'], function() {
 });
 
 Route::group(['prefix' => 'layouts'], function() {
-    Route::get('navbar/myprofile', 'NavbarController@add');
-    Route::get('navbar/myportfolio', 'NavbarController@add2');
-    Route::get('navbar/myblog', 'NavbarController@add3');
+    Route::get('navbar/myprofile', 'NavbarController@myprofile');
+    Route::get('navbar/myportfolio', 'NavbarController@myportfolio');
+    Route::get('navbar/myblog', 'NavbarController@myblog');
 });
     
 Route::get('/', 'ProfileController@index');

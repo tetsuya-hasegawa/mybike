@@ -55,22 +55,14 @@
   </button>
   <div class="collapse navbar-collapse" id="navmenu1">
     <div class="navbar-nav">
-      <a class="nav-item nav-link" href="{{ action('NavbarController@add') }}">プロフィール</a>
-      <a class="nav-item nav-link" href="{{ action('NavbarController@add2') }}">ポートフォリオの紹介</a>
-      <a class="nav-item nav-link" href="{{ action('NavbarController@add3') }}">このブログについて</a>
+      <a class="nav-item nav-link" href="{{ action('NavbarController@myprofile') }}">プロフィール</a>
+      <a class="nav-item nav-link" href="{{ action('NavbarController@myportfolio') }}">ポートフォリオの紹介</a>
+      <a class="nav-item nav-link" href="{{ action('NavbarController@myblog') }}">これまでの学習について</a>
     </div>
   </div>
 </nav>
                             
                             
-                            
-                         <!-- ここにナビボタンを追記
-                          <a href="{{ action('NavbarController@add') }}" role="button" class="btn btn-primary">プロフィール</a>
-                          <br><br>
-                          <a href="{{ action('NavbarController@add2') }}" role="button" class="btn btn-primary">ポートフォリオの紹介</a></a>
-                          <br><br>
-                          <a href="{{ action('NavbarController@add3') }}" role="button" class="btn btn-primary">このブログについて</a>
-                          -->
                         </ul>
 
                          <!-- Right Side Of Navbar -->
