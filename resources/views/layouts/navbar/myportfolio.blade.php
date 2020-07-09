@@ -14,6 +14,7 @@
                 <div>
                 <strong>このポートフォリオでは、以下に挙げる機能を実装しています。</strong>
                 </div>
+                <br><br><br>
                 <div><strong><font color="red">【CRUD処理】</strong></font>
                 <ul>
             　　    
@@ -24,7 +25,7 @@
             　　<li><strong>記事一覧表示</strong></li>
             　　</ul>
             　　</div>
-            　　
+            　　<br><br><br>
             　　<div><strong><font color="red">【データベースについて】</strong></font>
                 <ul>
             　　    
@@ -32,10 +33,10 @@
             　　<li><strong>モデルファイルの作成</strong></li>
             　　<li><strong>varidationをモデルファイルに記述</strong></li>
             　　<li><strong>投稿記事をデータベースに入力</strong></li>
-            　　<li><strong>データベースのリレーション</strong></li>
+            　　<li><strong>投稿履歴をデータベースのリレーションを使って表示</strong></li>
             　　</ul>
                 </div>
-                
+                <br><br><br>
                 <div><strong><font color="red">【お問い合わせ機能】</strong></font>
                 <ul>
             　　    
@@ -47,7 +48,7 @@
             　　<li><strong>Admin側でお問い合わせ内容を一覧で表示</strong></li>
             　　</ul>
                 </div>
-                      
+                <br><br><br>     
                 <div><strong><font color="red">【ナビゲーションバー】</strong></font>
                 <ul>
             　　    
@@ -56,9 +57,8 @@
             　　<li><strong>ナビゲーションバーにポートフォリオ内容を表示</strong></li>
             　　<li><strong>このアプリの簡単な説明を表示</strong></li>
             　　</ul>
-                </div>   
-                   
-                 
+                </div>  
+                 <br><br><br><br>
                 <div><strong><font color="red">【使っている環境、ソフトについて】</strong></font>
                 <ul>
             　　    
@@ -67,8 +67,16 @@
             　　<li><strong>aws-s3で画像保存</strong></li>
             　　</ul>
                 </div>   
-                
-                
+                <br><br><br><br>
+                 これらの機能で特に私が自分で考えて実装した機能が
+                 <ul>
+                 <li><strong>TOP画面から個別記事に飛ぶ機能<strong></li>
+                 <li><strong>お問い合わせ【CROUD処理】<strong></li>
+                 <li><strong>ナビゲーションバー<strong></li>
+                 <li><strong>データベースのセッション機能<strong></li>
+                 </ul>
+                 これらになります。
+                <br><br><br><br>
                     <br>
                     <div style="line-height: 2em">
                     <div class="col-md-4">
