@@ -44,7 +44,7 @@
                             
                             <!-- ここにナビボタンを追記-->
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
-  <a href="#" class="navbar-brand"></a>
+  <a href="#" class="navbar-brand">Navbar</a>
   <button class="navbar-toggler" type="button"
       data-toggle="collapse"
       data-target="#navmenu1"

@@ -9,27 +9,29 @@
                 <br>
                  
                 <div class="title">
-                   プロフィール
-                <br><br>
+                   ABOUT
                 </div>
+                
+                <strong><font size="5">自己紹介</font></strong>
+                <br><br>
                 <div style="padding: 10px; margin-bottom: 10px; border: 1px dotted #333333;">
-                <li><strong>名前</strong>&emsp;長谷川　哲也</li> 
+                <li><strong>名前:</strong>&emsp;長谷川　哲也</li> 
                 <br>
                 <li><strong>既婚</strong></li>
                 <br>
-                <li><strong>出身</strong>&emsp;滋賀県</li>
+                <li><strong>出身:</strong>&emsp;滋賀県</li>
                 <br>
-                <li><strong>家族構成</strong>&emsp;4人家族【私、嫁さん、長男（中学3年）、次男（小学5年生)】</li>
+                <li><strong>家族構成:</strong>&emsp;4人家族【私、嫁さん、長男（中学3年）、次男（小学5年生)】</li>
                 <br>
-            　　<li><strong>好きな事</strong>&emsp;家でゆったりする事</li>
+            　　<li><strong>好きな事:</strong>&emsp;家でゆったりする事</li>
             　　<br>
-            　　<li><strong>嫌いな事</strong>&emsp;過労働</li>
+            　　<li><strong>嫌いな事:</strong>&emsp;過労働</li>
             　　<br>
-            　　<li><strong>特技</strong>:</strong>&emsp;手先が器用</li>
+            　　<li><strong>特技:</strong></strong>&emsp;手先が器用</li>
             　　<br>
-            　　<li><strong>趣味</strong>&emsp;バイク、ウォーキング、ブログ、プログラミング</li>
+            　　<li><strong>趣味:</strong>&emsp;バイク、ウォーキング、ブログ、プログラミング</li>
             　　<br>
-            　　<li><strong>仕事以外での活動</strong>&emsp;副業でブログ運営を4年。直近の1日のアクセスは1万PV</li>
+            　　<li><strong>仕事以外での活動:</strong>&emsp;副業でブログ運営を4年。直近の1日のアクセスは1万PV</li>
             　　</div>
             　　<br><br><br>
             　　
