@@ -15,9 +15,11 @@
                 <strong>このポートフォリオでは、以下に挙げる機能を実装しています。</strong>
                 </div>
                 <br><br><br>
+                <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
                 <div><strong><font color="red">【CRUD処理】</strong></font>
                 <ul>
-            　　    
+            　　 
+            　　<li><strong>ログイン認証</strong></strong></li>    
             　　<li><strong>記事投稿</strong></strong></li>
             　　<li><strong>記事編集</strong></li>
             　　<li><strong>記事削除</strong></li>
@@ -25,48 +27,60 @@
             　　<li><strong>記事一覧表示</strong></li>
             　　</ul>
             　　</div>
+            　　</div>
             　　<br><br><br>
+            　　<div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
             　　<div><strong><font color="red">【データベースについて】</strong></font>
                 <ul>
             　　    
             　　<li><strong>migrationファイルの作成</strong></strong></li>
             　　<li><strong>モデルファイルの作成</strong></li>
             　　<li><strong>varidationをモデルファイルに記述</strong></li>
-            　　<li><strong>投稿記事をデータベースに入力</strong></li>
+            　　<li><strong>データベースを使って投稿記事を保存</strong></li>
             　　<li><strong>投稿履歴をデータベースのリレーションを使って表示</strong></li>
             　　</ul>
                 </div>
+                </div> 
                 <br><br><br>
+                <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
                 <div><strong><font color="red">【お問い合わせ機能】</strong></font>
                 <ul>
             　　    
             　　<li><strong>TOP画面にお問い合わせボタンの設置</strong></strong></li>
-            　　<li><strong>お問い合わせ入力</strong></li>
-            　　<li><strong>確認画面</strong></li>
+            　　<li><strong>ユーザーの入力機能</strong></li>
+            　　<li><strong>入力確認画面</strong></li>
             　　<li><strong>session機能を使ってお問い合わせ内容を修正</strong></li>
-            　　<li><strong>送信</strong></li>
+            　　<li><strong>送信機能</strong></li>
             　　<li><strong>Admin側でお問い合わせ内容を一覧で表示</strong></li>
             　　</ul>
                 </div>
-                <br><br><br>     
+                </div> 
+                <br><br><br>  
+                <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
                 <div><strong><font color="red">【ナビゲーションバー】</strong></font>
                 <ul>
             　　    
             　　<li><strong>TOP画面上にナビゲーションバーを設置</strong></strong></li>
             　　<li><strong>ナビゲーションバーにプロフィールを表示</strong></li>
             　　<li><strong>ナビゲーションバーにポートフォリオ内容を表示</strong></li>
-            　　<li><strong>このアプリの簡単な説明を表示</strong></li>
+            　　<li><strong>今までのプログラミング勉強の進捗について記述</strong></li>
             　　</ul>
-                </div>  
+                </div> 
+                </div> 
                  <br><br><br><br>
-                <div><strong><font color="red">【使っている環境、ソフトについて】</strong></font>
+                 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
+                <div><strong><font color="red">【スキルセットについて】</strong></font>
                 <ul>
             　　    
-            　　<li><strong>cloud9</strong></strong></li>
-            　　<li><strong>github</strong></li>
-            　　<li><strong>aws-s3で画像保存</strong></li>
+            　　<li><strong>環境</strong>--Cloud9</li>
+            　　<li><strong>言語</strong></strong>--HTML、CSS、PHP</li>
+            　　<li><strong>フレームワーク</strong>--Laravel</li>
+            　　<li><strong>ツール</strong>--GitHub、Laravel Mix,AWS S3</li>
+            　　<li><strong>OS</strong>--Linux,Mac</li>
+            　　
             　　</ul>
-                </div>   
+                </div>  
+                </div>
                 <br><br><br><br>
                  これらの機能で特に私が自分で考えて実装した機能が
                  <ul>
@@ -75,7 +89,7 @@
                  <li><strong>ナビゲーションバー<strong></li>
                  <li><strong>データベースのセッション機能<strong></li>
                  </ul>
-                 これらになります。
+                 このようになります。
                 <br><br><br><br>
                     <br>
                     <div style="line-height: 2em">

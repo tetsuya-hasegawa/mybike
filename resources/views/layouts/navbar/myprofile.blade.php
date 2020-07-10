@@ -10,9 +10,31 @@
                  
                 <div class="title">
                    プロフィール
+                <br><br>
                 </div>
-                <div>こんにちは。管理人のhaseです。<br>
-                </div><br>
+                <div style="padding: 10px; margin-bottom: 10px; border: 1px dotted #333333;">
+                <li><strong>名前</strong>&emsp;長谷川　哲也</li> 
+                <br>
+                <li><strong>既婚</strong></li>
+                <br>
+                <li><strong>出身</strong>&emsp;滋賀県</li>
+                <br>
+                <li><strong>家族構成</strong>&emsp;4人家族【私、嫁さん、長男（中学3年）、次男（小学5年生)】</li>
+                <br>
+            　　<li><strong>好きな事</strong>&emsp;家でゆったりする事</li>
+            　　<br>
+            　　<li><strong>嫌いな事</strong>&emsp;過労働</li>
+            　　<br>
+            　　<li><strong>特技</strong>:</strong>&emsp;手先が器用</li>
+            　　<br>
+            　　<li><strong>趣味</strong>&emsp;バイク、ウォーキング、ブログ、プログラミング</li>
+            　　<br>
+            　　<li><strong>仕事以外での活動</strong>&emsp;副業でブログ運営を4年。直近の1日のアクセスは1万PV</li>
+            　　</div>
+            　　<br><br><br>
+            　　
+                <div>こんにちは。管理人のhaseです(*^ω^*)<br>
+                </div><br><br>
                 <div>
                 
                 私は滋賀県在住の45歳の会社員。
@@ -32,6 +54,8 @@
                 
                 
                 せっかく生きているからには何か目標のある生き方をしたいのです。
+                <br><br>
+                <strong>「俺は何がしたいんやろ？このままじゃ終わりたくない！」</strong>
                 <br><br><br><br><br><br>
                 そのように悶々としていたらですね、
                 <br><br><br>
@@ -50,8 +74,10 @@
                 
                 それが
                 <strong>「最強の副業はプログラミング！」</strong><br><br>
+                  <br><br><br> <br><br>
                 
                 
+                <h3 style="background-color:#ffcc99;">プログラミングと出会う</h3>
                 
                 
                 その動画を語っている方はプログラミングが大好きで楽しく人生を送っているとのこと。
@@ -77,7 +103,7 @@
                 <br><br>
                 でも . . .
                 
-                徐々に難しくなっていくんです(;´д｀)
+                徐々に難しくなっていくんです(;´д｀)<br>
                 
                 
             　　世間で言われている比較的簡単と言われているHTML＆CSSなんて応用編になるとお手上げ樹体。
@@ -105,7 +131,7 @@
                 「次なる目標はオンラインプログラミングスクールを受講する事や♪」と。<br>
                  <br><br><br><br><br><br><br><br><br><br>
                 
-                
+                 <h3 style="background-color:#ffcc99;">オンラインプログラミングスクールを受講する</h3>
                 
                 私は45歳のおっさんです。<br>
                 

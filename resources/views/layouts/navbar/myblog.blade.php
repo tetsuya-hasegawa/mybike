@@ -5,7 +5,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 mx-auto">
-                <h2>これまでの学習経緯について</h2>
+                <h2>これまでの学習について</h2>
                 <br>
                  
                 <div class="title">
@@ -21,7 +21,7 @@
                 <p>ProgateのHTML & CSSから学習を始める事にしました。
                 <br><br>
                 
-                <p>※ここからは私の簡単な学習履歴を表示します
+                 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
                 <br>
                 
                 <ui>
@@ -37,13 +37,14 @@
                 <br>
                 <li><strong>2020年5月〜7月</strong>　ポートフォリオ制作にかかる</li>
                 </ul>
-                <br><br><br>
+                </div>
+                <br>
                 <p>このような流れで学習しています。
                 
-                <p>その状態でProgateでの独学からtech boostでのオンライン学習を含めると一年近く学習しています。</div>
+                <p>Progateでの独学からtech boostでのオンライン学習を含めると一年近く学習しています。</div>
                 <br><br>
-                <p><strong>「学習に時間かかりすぎ？」</strong>
-                <br><br>
+                <p><strong>「学習に時間かかりすぎ(・Д・)ノ」</strong>
+                <br><br><br>
                 <p>と思ったりもしますが、しっかり理解するには私の場合これくらいの学習期間が必要になります。<p><br>
                 <p>でも時間を掛けることで確実にプログラミングが身についています♪( ´θ｀)ノ
                 <p>これからもポートフォリオ制作を通じて学習を進めていきますね。</p>
