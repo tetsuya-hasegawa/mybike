@@ -33,7 +33,7 @@
                 <br>
                 <li><strong>2020年1月〜2020年4月</strong>　tech boostでHTML & CSS, PHP,Laravelを学習</li>
                 <br>
-                <li><strong>2020年4月〜5月</strong> 今まで勉強した事を徹底復習</li>
+                <li><strong>2020年4月〜5月</strong>  今まで勉強した事を徹底復習</li>
                 <br>
                 <li><strong>2020年5月〜7月</strong>　ポートフォリオ制作にかかる</li>
                 </ul>
@@ -43,12 +43,13 @@
                 <br><br>
                 <p>Progateでの独学からtech boostでのオンライン学習を含めると一年近く学習しています。</div>
                 <br><br>
-                <p><strong>「これって学習に時間かかりすぎ(・Д・)ノ」</strong>
-                <br><br><br>
+                <p><strong>「これって学習に時間かかりすぎ？」</strong>
+                <br>
                 <p>と思ったりもしますが、しっかり理解するには私の場合これくらいの学習期間が必要になります。<p><br>
+                <br><br>
                 <p>でも時間を掛けることで確実にプログラミングが身についています♪( ´θ｀)ノ
-                <p>これからもポートフォリオ制作を通じて学習を進めていきますね。</p>
-                <br><br><br><br>
+                <p>これからもポートフォリオ制作を通じてプログラミングの学習を進めていきます。</p>
+                <br><br><br>
                 
                     <div style="line-height: 2em">
                     <div class="col-md-4">

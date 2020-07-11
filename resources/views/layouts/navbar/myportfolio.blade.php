@@ -9,14 +9,14 @@
                 <br>
                  
                 <div class="title">
-                   ポートフォリオ
+                   <strong>ポートフォリオ</strong>
                 </div>
                 <div>
-                <strong>このポートフォリオでは、以下に挙げる機能を実装しています。</strong>
+                このポートフォリオ(ブログ)では、以下に挙げる機能を実装しています。
                 </div>
                 <br><br><br>
                 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
-                <div><strong><font color="red">【CRUD処理】</strong></font>
+                <div><strong><font color="blue">【CRUD処理】</strong></font>
                 <ul>
             　　 
             　　<li><strong>ログイン認証</strong></strong></li>    
@@ -30,7 +30,7 @@
             　　</div>
             　　<br><br><br>
             　　<div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
-            　　<div><strong><font color="red">【データベースについて】</strong></font>
+            　　<div><strong><font color="blue">【データベースについて】</strong></font>
                 <ul>
             　　    
             　　<li><strong>migrationファイルの作成</strong></strong></li>
@@ -43,7 +43,7 @@
                 </div> 
                 <br><br><br>
                 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
-                <div><strong><font color="red">【お問い合わせ機能】</strong></font>
+                <div><strong><font color="blue">【お問い合わせ機能】</strong></font>
                 <ul>
             　　    
             　　<li><strong>TOP画面にお問い合わせボタンの設置</strong></strong></li>
@@ -57,7 +57,7 @@
                 </div> 
                 <br><br><br>  
                 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
-                <div><strong><font color="red">【ナビゲーションバー】</strong></font>
+                <div><strong><font color="blue">【ナビゲーションバー】</strong></font>
                 <ul>
             　　    
             　　<li><strong>TOP画面上にナビゲーションバーを設置</strong></strong></li>
@@ -69,27 +69,18 @@
                 </div> 
                  <br><br><br><br>
                  <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
-                <div><strong><font color="red">【スキルセットについて】</strong></font>
+                <div><strong><font color="blue">【スキルセットについて】</strong></font>
                 <ul>
             　　    
-            　　<li><strong>環境</strong>--Cloud9</li>
-            　　<li><strong>言語</strong></strong>--HTML、CSS、PHP</li>
-            　　<li><strong>フレームワーク</strong>--Laravel</li>
-            　　<li><strong>ツール</strong>--GitHub、Laravel Mix,AWS S3</li>
-            　　<li><strong>OS</strong>--Linux,Mac</li>
+            　　<li><strong>環境;&emsp;Cloud9</strong></li>
+            　　<li><strong>言語;&emsp;HTML、CSS、PHP</strong></li>
+            　　<li><strong>フレームワーク;&emsp;Laravel</strong></li>
+            　　<li><strong>ツール;&emsp;GitHub、Laravel Mix,AWS S3</strong></li>
+            　　<li><strong>OS;&emsp;Linux,Mac</li>
             　　
             　　</ul>
                 </div>  
                 </div>
-                <br><br><br><br>
-                 これらの機能で特に私が自分で考えて実装した機能が
-                 <ul>
-                 <li><strong>TOP画面から個別記事に飛ぶ機能<strong></li>
-                 <li><strong>お問い合わせ【CROUD処理】<strong></li>
-                 <li><strong>ナビゲーションバー<strong></li>
-                 <li><strong>データベースのセッション機能<strong></li>
-                 </ul>
-                 このようになります。
                 <br><br><br><br>
                     <br>
                     <div style="line-height: 2em">
