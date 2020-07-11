@@ -21,6 +21,8 @@
                 <br>
                 <li><strong>出身:</strong>&emsp;滋賀県</li>
                 <br>
+                <li><strong>職業:</strong>&emsp;金属加工業</li>
+                <br>
                 <li><strong>家族構成:</strong>&emsp;4人家族【私、嫁さん、長男（中学3年）、次男（小学5年生)】</li>
                 <br>
             　　<li><strong>好きな事:</strong>&emsp;家でゆったりする事</li>
@@ -31,7 +33,9 @@
             　　<br>
             　　<li><strong>趣味:</strong>&emsp;バイク、ウォーキング、ブログ、プログラミング</li>
             　　<br>
-            　　<li><strong>仕事以外での活動:</strong>&emsp;副業でブログ運営を4年。直近の1日のアクセスは1万PV</li>
+            　　<li><strong>仕事以外での活動:</strong>&emsp;副業でブログ運営を4年。月間アクセスは25万PV</li>
+            　　<br>
+            　　<li><strong>ブログ:</strong></strong>&emsp;【<a href="https://hase01.com">居心地の良いMy Life</a>】</li>
             　　</div>
             　　<br><br><br>
             　　
@@ -40,7 +44,7 @@
                 <div>
                 
                 私は滋賀県在住の45歳の会社員。
-                職業は金属加工業で、日々鉄粉と油に塗れながら黙々と作業しています。<br>
+                職業は金属加工業で、日々鉄粉と油にまみれながら黙々と作業しています。<br>
                 <br>
                 
                 「今日も仕事で疲れたわ . . .でも日々充実していて満足♪」<br>
