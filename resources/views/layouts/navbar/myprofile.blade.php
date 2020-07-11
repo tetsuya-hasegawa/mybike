@@ -14,7 +14,7 @@
                 
                 <strong><font size="5">自己紹介</font></strong>
                 <br><br>
-                <div style="padding: 10px; margin-bottom: 10px; border: 1px dotted #333333;">
+                <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
                 <li><strong>名前:</strong>&emsp;長谷川　哲也</li> 
                 <br>
                 <li><strong>既婚</strong></li>
