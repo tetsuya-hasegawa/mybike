@@ -56,8 +56,8 @@
                 <br><br>
                 なんと言うんでしょうか？<br>
                 毎日変化のない日々が過ぎていくんです。せっかく生きているからには何か目標のある生き方をしたいのです。
-                <br><br><br><br>
-                でも、<strong>「俺は何がしたいんやろ？」</strong>
+                <br><br>
+                でも、<strong>「俺は何がしたいんやろ . . .」</strong>
                 <br><br><br><br><br><br>
                 そのように悶々としていたらですね、
                 <br><br><br>
@@ -65,7 +65,7 @@
                 
                 
                 <strong><font size="5">見つけたのです(・Д・)ノ</font></strong>
-                <br><br>
+                <br><br><br>
                 
                 やりたい目標が♪<br><br>
                 
@@ -98,7 +98,7 @@
                 なので2019年9月からProgateを使って独学でプログラミングの勉強を始める事になりました。
                 <br><br><br><br><br><br><br><br>
                 
-                で、ワクワクしながらProgateを始めるとですね、<br>
+                で、ワクワクしながら<a href="https://hase01.com/progate-kutikomi-3/">Progate</a>を始めるとですね、<br>
                 <br><br>
                 最初はいいんです。<br>
                 結構分かりやすく書かれているので♪<dr>
@@ -135,7 +135,7 @@
                 
                  <h3 style="background-color:#ffcc99;">オンラインプログラミングスクールを受講する</h3>
                 
-                私は45歳のおっさんです。<br>
+                私は<a href="https://hase01.com/reality-programming/">45歳のおっさん</a>です。<br>
                 
                 でも、そんなの気にしません。<br><br>
                 
@@ -143,11 +143,11 @@
                 今できる環境にあるならば後で後悔するよりチャレンジした方がいいのです。<br><br>
                 <br><br><br>
                 
-                と言う事で、私はオンラインプログラミングスクールtech boostを受講する事にしました。<br>
+                と言う事で、私はオンラインプログラミングスクール<a href="https://hase01.com/programming-school-tech-boost/">tech boost</a>を受講する事にしました。<br>
                 <br>
                 
                 
-                2020年1月から受講開始して今で半年経過しました。
+                そして2020年7月。受講開始して今で<a href="https://hase01.com/tech-boost-5months/">半年経過</a>しました。
                 <br><br><br>
                 
                 

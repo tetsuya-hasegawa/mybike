@@ -35,7 +35,7 @@
                 <br>
                 <li><strong>2020年4月〜5月</strong>  今まで勉強した事を徹底復習</li>
                 <br>
-                <li><strong>2020年5月〜7月</strong>　ポートフォリオ制作にかかる</li>
+                <li><strong>2020年5月〜7月</strong>　<a href="https://hase01.com/tech-boost-5months/">ポートフォリオ制作にかかる</a></li>
                 </ul>
                 </div>
                 <br>
