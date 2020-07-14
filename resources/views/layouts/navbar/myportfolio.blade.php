@@ -5,7 +5,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 mx-auto">
-                <h2>haseのポートフォリオ詳細</h2>
+                <h2>ポートフォリオ機能紹介</h2>
                 <br>
                  
                 <div class="title">
@@ -16,7 +16,7 @@
                 </div>
                 <br><br><br>
                 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
-                <div><strong><font color="blue">【CRUD処理】</strong></font>
+                <div><strong><font size="4" color="blue">【CRUD処理】</font></font>
                 <ul>
             　　 
             　　<li><strong>ログイン認証</strong></strong></li>    
@@ -30,7 +30,7 @@
             　　</div>
             　　<br><br><br>
             　　<div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
-            　　<div><strong><font color="blue">【データベースについて】</strong></font>
+            　　<div><strong><font size="4" color="blue">【データベースについて】</strong></font>
                 <ul>
             　　    
             　　<li><strong>migrationファイルの作成</strong></strong></li>
@@ -43,7 +43,7 @@
                 </div> 
                 <br><br><br>
                 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
-                <div><strong><font color="blue">【お問い合わせ機能】</strong></font>
+                <div><strong><font size="4" color="blue">【お問い合わせ機能】</strong></font>
                 <ul>
             　　    
             　　<li><strong>TOP画面にお問い合わせボタンの設置</strong></strong></li>
@@ -57,7 +57,7 @@
                 </div> 
                 <br><br><br>  
                 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
-                <div><strong><font color="blue">【ナビゲーションバー】</strong></font>
+                <div><strong><font size="4" color="blue">【ナビゲーションバー】</strong></font>
                 <ul>
             　　    
             　　<li><strong>TOP画面上にナビゲーションバーを設置</strong></strong></li>
@@ -69,14 +69,14 @@
                 </div> 
                  <br><br><br><br>
                  <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
-                <div><strong><font color="blue">【スキルセットについて】</strong></font>
+                <div><strong><font size="4" color="blue">【スキルセットについて】</strong></font>
                 <ul>
             　　    
             　　<li><strong>環境;&emsp;Cloud9</strong></li>
             　　<li><strong>言語;&emsp;HTML、CSS、PHP</strong></li>
             　　<li><strong>フレームワーク;&emsp;Laravel</strong></li>
             　　<li><strong>ツール;&emsp;GitHub、Laravel Mix、AWS S3</strong></li>
-            　　<li><strong>OS;&emsp;Linux、Mac</li>
+            　　<li><strong>OS;&emsp;Linux、Mac</strong></li>
             　　
             　　</ul>
                 </div>  

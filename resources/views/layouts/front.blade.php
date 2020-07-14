@@ -44,7 +44,7 @@
                             
                             <!-- ここにナビボタンを追記-->
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
-  <a href="#" class="navbar-brand">Navbar</a>
+  <a href="#" class="navbar-brand">このポートフォリオについて</a>
   <button class="navbar-toggler" type="button"
       data-toggle="collapse"
       data-target="#navmenu1"
@@ -56,7 +56,7 @@
   <div class="collapse navbar-collapse" id="navmenu1">
     <div class="navbar-nav">
       <a class="nav-item nav-link" href="{{ action('NavbarController@myprofile') }}">プロフィール</a>
-      <a class="nav-item nav-link" href="{{ action('NavbarController@myportfolio') }}">ポートフォリオの紹介</a>
+      <a class="nav-item nav-link" href="{{ action('NavbarController@myportfolio') }}">ポートフォリオ機能紹介</a>
       <a class="nav-item nav-link" href="{{ action('NavbarController@myblog') }}">これまでの学習について</a>
     </div>
   </div>

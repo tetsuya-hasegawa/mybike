@@ -95,9 +95,9 @@
                 そんなに楽しくて没頭できる職業なら是非私もしてみたいです。
                 
                 
-                なので2019年9月からProgateを使って独学でプログラミングの勉強を始める事になりました。
+                なので<u>2019年9月からProgateを使って独学でプログラミングの勉強</u>を始める事になりました。
                 <br><br><br><br><br><br><br><br>
-                
+                <h3 style="background-color:#ffcc99;">Progateで独学</h3><br>
                 で、ワクワクしながら<a href="https://hase01.com/progate-kutikomi-3/">Progate</a>を始めるとですね、<br>
                 <br><br>
                 最初はいいんです。<br>
@@ -135,24 +135,24 @@
                 
                  <h3 style="background-color:#ffcc99;">オンラインプログラミングスクールを受講する</h3>
                 
-                私は<a href="https://hase01.com/reality-programming/">45歳のおっさん</a>です。<br>
+                私は45歳です。<br><br>
                 
                 でも、そんなの気にしません。<br><br>
-                
+                <br><br>
                 
                 今できる環境にあるならば後で後悔するよりチャレンジした方がいいのです。<br><br>
-                <br><br><br>
-                
-                と言う事で、私はオンラインプログラミングスクール<a href="https://hase01.com/programming-school-tech-boost/">tech boost</a>を受講する事にしました。<br>
-                <br>
                 
                 
-                そして2020年7月。受講開始して今で<a href="https://hase01.com/tech-boost-5months/">半年経過</a>しました。
-                <br><br><br>
+                なので私はオンラインプログラミングスクール<a href="https://hase01.com/programming-school-tech-boost/">tech boost</a>を受講する事にしました。<br>
+                <br><br><br><br>
                 
                 
-                結果は右往左往しながらも何とか頑張って勉強しています。
-                ※今までに何社かエンジニア転職に応募しましたが全てダメでした . . .<br>
+                そして2020年7月。受講開始して今で半年経過しました。
+                <br><br>
+                
+                
+                結果は右往左往しながらも今なお勉強しています。
+                何社かエンジニア転職に応募してダメでしたが、 . . .<br>
                 <br><br><br>
                 
                 でも、諦めずに頑張れば必ずエンジニアになれると確信しています。
