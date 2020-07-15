@@ -21,7 +21,7 @@
                 <p>ProgateのHTML & CSSから学習を始める事にしました。
                 <br><br>
                 
-                 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333;">
+                 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; background-color: powderblue;">
                 <br>
                 
                 <ui>
@@ -33,9 +33,9 @@
                 <br>
                 <li><strong>2020年1月〜2020年4月</strong>　tech boostでHTML & CSS, PHP,Laravelを学習</li>
                 <br>
-                <li><strong>2020年4月〜5月</strong>  今まで勉強した事を徹底復習</li>
+                <li><strong>2020年4月〜5月</strong>　今まで勉強した事を徹底復習</li>
                 <br>
-                <li><strong>2020年5月〜7月</strong>　<a href="https://hase01.com/tech-boost-5months/">ポートフォリオ制作にかかる</a></li>
+                <li><strong>2020年5月〜7月</strong>　ポートフォリオ制作にかかる</li>
                 </ul>
                 </div>
                 <br>
