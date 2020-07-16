@@ -15,7 +15,7 @@
                 このポートフォリオ(ブログ)では、以下に挙げる機能を実装しています。
                 </div>
                 <br><br><br>
-                <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; background-color: powderblue;">
+                <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; background-color: aliceblue ;">
                 <div><strong><font size="4" color="blue">【CRUD処理】</font></font>
                 <ul>
             　　 
@@ -29,7 +29,7 @@
             　　</div>
             　　</div>
             　　<br><br><br>
-            　　<div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; background-color: powderblue;">
+            　　<div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; background-color: aliceblue ;">
             　　<div><strong><font size="4" color="blue">【データベースについて】</strong></font>
                 <ul>
             　　    
@@ -42,7 +42,7 @@
                 </div>
                 </div> 
                 <br><br><br>
-                <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; background-color: powderblue;">
+                <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; background-color: aliceblue ;">
                 <div><strong><font size="4" color="blue">【お問い合わせ機能】</strong></font>
                 <ul>
             　　    
@@ -56,7 +56,7 @@
                 </div>
                 </div> 
                 <br><br><br>  
-                <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; background-color: powderblue;">
+                <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; background-color: aliceblue ;">
                 <div><strong><font size="4" color="blue">【ナビゲーションバー】</strong></font>
                 <ul>
             　　    
@@ -68,7 +68,7 @@
                 </div> 
                 </div> 
                  <br><br><br><br>
-                 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; background-color: powderblue;">
+                 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; background-color: aliceblue ;">
                 <div><strong><font size="4" color="blue">【スキルセットについて】</strong></font>
                 <ul>
             　　    

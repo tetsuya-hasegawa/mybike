@@ -21,7 +21,7 @@
                 <p>ProgateのHTML & CSSから学習を始める事にしました。
                 <br><br>
                 
-                 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; background-color: powderblue;">
+                 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; background-color: aliceblue ;">
                 <br>
                 
                 <ui>
