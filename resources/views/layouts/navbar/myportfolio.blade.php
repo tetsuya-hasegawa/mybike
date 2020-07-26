@@ -73,8 +73,8 @@
                 <ul>
             　　    
             　　<li><strong>環境;&emsp;Cloud9</strong></li>
-            　　<li><strong>言語;&emsp;HTML、CSS、PHP</strong></li>
-            　　<li><strong>フレームワーク;&emsp;Laravel</strong></li>
+            　　<li><strong>言語;&emsp;HTML、CSS、PHP 7.3.11</strong></li>
+            　　<li><strong>フレームワーク;&emsp;Laravel 5.8.38</strong></li>
             　　<li><strong>ツール;&emsp;GitHub、Laravel Mix、AWS S3</strong></li>
             　　<li><strong>OS;&emsp;Linux、Mac</strong></li>
             　　
