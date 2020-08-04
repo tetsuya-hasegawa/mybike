@@ -36,6 +36,9 @@
                 <li><strong>2020年4月〜5月</strong>　今まで勉強した事を徹底復習</li>
                 <br>
                 <li><strong>2020年5月〜7月</strong>　ポートフォリオ制作にかかる</li>
+                <br>
+                <li><strong>2020年7月</strong>　paizaラーニングでもスキルを磨く</li>
+                <br>
                 </ul>
                 </div>
                 <br>
